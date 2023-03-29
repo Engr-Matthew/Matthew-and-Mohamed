@@ -1,0 +1,46 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+  font-family: "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+  text-align: center;
+  background-color: lavender;
+}
+h1{
+    margin-bottom: 20px;
+}
+h4{
+    margin-bottom: 15px;
+    font-weight: lighter;
+}
+#img-caption{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-weight: lighter;
+}
+h2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+dl{
+margin-left: 30%;
+margin-right: 30%;
+font-size: 14px;
+}
+li{
+    margin: 15px;
+    text-align: left;
+}
+p .quote {
+    margin-left: 30%;
+    margin-right: 30%;
+    font-style: italic;
+}
+.tribute-link{
+    font-weight: bolder;
+    text-align: center;
+    margin: 25px;
+}
